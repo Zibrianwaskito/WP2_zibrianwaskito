@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Tampil Data Matakuliah</title>
+        <title>Tampil Data Matakuliah data</title>
     </head>
     <body>
         <center>
