@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Form Input Matakuliah</title>
+        <title>Form Input Matakuliah data</title>
     </head>
     <head>
         <body>
